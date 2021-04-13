@@ -127,7 +127,7 @@ hosts 文件在每个系统的位置不一，详情如下：
 
 **Tip**：不要添加在 **DNS 允许清单** 内，只能添加在 **DNS 封锁清单** 才管用。另外，AdGuard for Mac、AdGuard for Windows、AdGuard for Android、AdGuard for IOS 等等 **AdGuard 家族软件** 添加方法均类似。
 
-### 2.3 Python 用户（自动方式）
+### 2.4 Python 用户（自动方式）
 
 下载 update_git_hosts.py 文件（改写自chenyanzz/hosts_add_github，对原来的一些网络问题加以改善），放进D：运行即可，会自动输出log至D:，每次启动自动删除先前的log，防止撑爆磁盘。
 
