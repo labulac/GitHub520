@@ -1,10 +1,4 @@
-# GitHub520
-<p align="center">
-  <img src="https://vip1.loli.net/2020/05/19/fLSBE29NxoFtOcd.gif"/>
-  <br><strong><a href="https://github.com/521xueweihan/HelloGitHub" target="_blank">HelloGitHub</a></strong> 分享 GitHub 上有趣、入门级的开源项目。<br>兴趣是最好的老师，这里能够帮你找到编程的兴趣！
-</p>
-
-👉 [HelloGitHub 3D 星史](https://static.hellogithub.com/5y/2020.html)👈 周日我在 [「HelloGitHub 视频号」](https://static.hellogithub.com/5y/img/v.jpeg) 举办五周年直播活动，奖品丰厚邀您参加！
+# GitHub520 forked from 521xueweihan/GitHub520
 
 ## 一、介绍
 对 GitHub 说"爱"太难了：访问慢、图片加载不出来。
@@ -91,6 +85,13 @@ hosts 文件在每个系统的位置不一，详情如下：
 ![](./img/AdGuard-rules2.png)
 
 **Tip**：不要添加在 **DNS 允许清单** 内，只能添加在 **DNS 封锁清单** 才管用。另外，AdGuard for Mac、AdGuard for Windows、AdGuard for Android、AdGuard for IOS 等等 **AdGuard 家族软件** 添加方法均类似。
+
+### 2.3 Python 用户（自动方式）
+
+下载 update_git_hosts.py 文件（改写自，对一些网络问题以改善），放进D：运行即可，会自动输出log至D:，每次启动自动删除先前的log，防止撑爆磁盘。
+
+**开机自动运行** 使用windows自带的任务计划程序，设置开机自启动任务即可，记住使用**无窗口**模式
+
 
 ## 三、效果对比
 之前的样子：
