@@ -55,13 +55,13 @@
 185.199.108.133               media.githubusercontent.com
 
 
-# Update time: 2021-04-20T19:16:53+08:00
+# Update time: 2021-04-20T19:18:01+08:00
 # Star me GitHub url: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2021-04-20T19:16:53+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2021-04-20T19:18:01+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
@@ -127,7 +127,7 @@ hosts 文件在每个系统的位置不一，详情如下：
 
 **Tip**：不要添加在 **DNS 允许清单** 内，只能添加在 **DNS 封锁清单** 才管用。另外，AdGuard for Mac、AdGuard for Windows、AdGuard for Android、AdGuard for IOS 等等 **AdGuard 家族软件** 添加方法均类似。
 
-### 2.3 Python 用户（自动方式）
+### 3.1 Python 用户（自动方式）
 
 下载 update_git_hosts.py 文件（改写自chenyanzz/hosts_add_github，对原来的一些网络问题加以改善），放进D：运行即可，会自动输出log至D:，每次启动自动删除先前的log，防止撑爆磁盘。
 
