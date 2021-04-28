@@ -19,7 +19,7 @@
 ```bash
 # GitHub520 Host Start
 140.82.114.26                 alive.github.com
-140.82.113.25                 live.github.com
+140.82.114.25                 live.github.com
 172.217.4.74                  ajax.googleapis.com
 151.101.1.69                  stackoverflow.com
 172.217.4.78                  www.google-analytics.com
@@ -33,7 +33,7 @@
 140.82.113.3                  gist.github.com
 185.199.108.153               github.io
 140.82.112.3                  github.com
-140.82.114.6                  api.github.com
+140.82.112.6                  api.github.com
 185.199.108.133               raw.githubusercontent.com
 185.199.108.133               user-images.githubusercontent.com
 185.199.108.133               favicons.githubusercontent.com
@@ -46,22 +46,22 @@
 185.199.108.133               avatars.githubusercontent.com
 140.82.113.10                 codeload.github.com
 52.217.202.233                github-cloud.s3.amazonaws.com
-52.217.89.236                 github-com.s3.amazonaws.com
-52.216.107.36                 github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.194.153                github-production-user-asset-6210df.s3.amazonaws.com
-52.216.25.84                  github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.40.68                  github-com.s3.amazonaws.com
+52.216.224.64                 github-production-release-asset-2e65be.s3.amazonaws.com
+52.216.232.163                github-production-user-asset-6210df.s3.amazonaws.com
+52.216.109.147                github-production-repository-file-5c1aeb.s3.amazonaws.com
 185.199.108.153               githubstatus.com
 64.71.168.201                 github.community
 185.199.108.133               media.githubusercontent.com
 
 
-# Update time: 2021-04-28T17:58:51+08:00
+# Update time: 2021-04-28T18:30:57+08:00
 # Star me GitHub url: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2021-04-28T17:58:51+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2021-04-28T18:30:57+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
