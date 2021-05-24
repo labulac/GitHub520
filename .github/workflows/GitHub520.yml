@@ -6,7 +6,7 @@ name: GitHub520
 on:
   push:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/60 * * * *'
 
 jobs:
   build:
