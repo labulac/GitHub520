@@ -19,7 +19,7 @@
 ```bash
 # GitHub520 Host Start
 140.82.112.26                 alive.github.com
-140.82.112.26                 live.github.com
+140.82.112.25                 live.github.com
 216.58.192.170                ajax.googleapis.com
 151.101.1.69                  stackoverflow.com
 142.250.190.110               www.google-analytics.com
@@ -44,7 +44,7 @@
 185.199.108.133               avatars1.githubusercontent.com
 185.199.108.133               avatars0.githubusercontent.com
 185.199.108.133               avatars.githubusercontent.com
-140.82.113.10                 codeload.github.com
+140.82.112.10                 codeload.github.com
 52.216.133.195                github-cloud.s3.amazonaws.com
 52.216.76.108                 github-com.s3.amazonaws.com
 52.216.114.243                github-production-release-asset-2e65be.s3.amazonaws.com
@@ -55,13 +55,13 @@
 185.199.108.133               media.githubusercontent.com
 
 
-# Update time: 2021-06-12T07:08:24+08:00
+# Update time: 2021-06-12T08:23:00+08:00
 # Star me GitHub url: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2021-06-12T07:08:24+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2021-06-12T08:23:00+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
