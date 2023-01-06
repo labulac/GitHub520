@@ -29,7 +29,7 @@
 140.82.114.3                  alive.github.com
 142.250.31.99                 translate.googleapis.com
 140.82.114.3                  live.github.com
-18.237.13.81                  github.githubassets.com
+35.87.119.202                 github.githubassets.com
 140.82.114.3                  central.github.com
 185.199.108.133               desktop.githubusercontent.com
 140.82.114.3                  assets-cdn.github.com
@@ -68,14 +68,14 @@
 13.107.237.51                 vscode.dev
 
 
-# Update time: 2023-01-06T10:41:31+08:00
+# Update time: 2023-01-06T12:14:34+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # Star me: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2023-01-06T10:41:31+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2023-01-06T12:14:34+08:00（内容无变动不会更新）
 
 - 文件：`https://raw.hellogithub.com/hosts`
 - JSON：`https://raw.hellogithub.com/hosts.json`
