@@ -26,32 +26,32 @@
 ### 2.1 复制下面的内容
 ```bash
 # GitHub520 Host Start
-140.82.114.4                  alive.github.com
+140.82.114.3                  alive.github.com
 142.251.32.4                  translate.googleapis.com
-140.82.114.4                  live.github.com
-3.236.246.141                 github.githubassets.com
-140.82.114.4                  central.github.com
-44.201.92.53                  desktop.githubusercontent.com
-140.82.114.4                  assets-cdn.github.com
-100.25.39.244                 camo.githubusercontent.com
+140.82.114.3                  live.github.com
+18.237.235.33                 github.githubassets.com
+140.82.114.3                  central.github.com
+34.220.106.217                desktop.githubusercontent.com
+140.82.114.3                  assets-cdn.github.com
+18.237.119.214                camo.githubusercontent.com
 151.101.1.6                   github.map.fastly.net
 151.101.1.6                   github.global.ssl.fastly.net
-140.82.114.4                  gist.github.com
+140.82.114.3                  gist.github.com
 185.199.108.153               github.io
-140.82.114.4                  github.com
+140.82.114.3                  github.com
 192.0.66.2                    github.blog
-140.82.114.4                  api.github.com
-34.204.202.210                raw.githubusercontent.com
-52.54.65.216                  user-images.githubusercontent.com
-3.223.3.78                    favicons.githubusercontent.com
-52.73.128.235                 avatars5.githubusercontent.com
-34.204.202.210                avatars4.githubusercontent.com
-44.203.238.4                  avatars3.githubusercontent.com
-3.238.244.180                 avatars2.githubusercontent.com
-52.73.128.235                 avatars1.githubusercontent.com
-100.25.39.244                 avatars0.githubusercontent.com
-3.235.136.115                 avatars.githubusercontent.com
-140.82.114.4                  codeload.github.com
+140.82.114.3                  api.github.com
+54.71.110.221                 raw.githubusercontent.com
+34.219.174.184                user-images.githubusercontent.com
+54.187.181.108                favicons.githubusercontent.com
+34.219.82.215                 avatars5.githubusercontent.com
+35.88.93.222                  avatars4.githubusercontent.com
+34.219.174.184                avatars3.githubusercontent.com
+34.220.106.217                avatars2.githubusercontent.com
+18.237.119.214                avatars1.githubusercontent.com
+54.71.110.221                 avatars0.githubusercontent.com
+34.219.82.215                 avatars.githubusercontent.com
+140.82.114.3                  codeload.github.com
 72.21.206.80                  github-cloud.s3.amazonaws.com
 72.21.206.80                  github-com.s3.amazonaws.com
 72.21.206.80                  github-production-release-asset-2e65be.s3.amazonaws.com
@@ -60,22 +60,22 @@
 185.199.108.153               githubstatus.com
 140.82.113.18                 github.community
 52.224.38.193                 github.dev
-140.82.114.4                  collector.github.com
-44.201.92.53                  pipelines.actions.githubusercontent.com
-44.203.211.156                media.githubusercontent.com
-3.237.16.107                  cloud.githubusercontent.com
-44.203.211.156                objects.githubusercontent.com
+140.82.114.3                  collector.github.com
+54.71.110.221                 pipelines.actions.githubusercontent.com
+34.219.174.184                media.githubusercontent.com
+35.88.93.222                  cloud.githubusercontent.com
+18.237.119.214                objects.githubusercontent.com
 13.107.237.51                 vscode.dev
 
 
-# Update time: 2023-01-28T20:20:34+08:00
+# Update time: 2023-01-28T22:10:14+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # Star me: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2023-01-28T20:20:34+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2023-01-28T22:10:14+08:00（内容无变动不会更新）
 
 - 文件：`https://raw.hellogithub.com/hosts`
 - JSON：`https://raw.hellogithub.com/hosts.json`
